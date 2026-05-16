@@ -1,0 +1,75 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Environment Variables
+# =========================
+.env
+
+# =========================
+# ML / Data Files
+# =========================
+
+# Kaggle or external datasets
+data/
+
+# Large CSVs
+*.zip
+*.tar.gz
+
+# Trained models
+models/
+*.pkl
+*.joblib
+*.h5
+
+# Reports / generated outputs
+reports/
+outputs/
+
+# =========================
+# Testing / Cache
+# =========================
+.pytest_cache/
+.cache/
+
+# =========================
+# Streamlit (if added later)
+# =========================
+.streamlit/secrets.toml
