@@ -61,7 +61,6 @@ models/
 
 # Reports / generated outputs
 reports/
-outputs/
 
 # =========================
 # Testing / Cache

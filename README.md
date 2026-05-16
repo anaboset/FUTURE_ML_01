@@ -5,7 +5,9 @@
 
 ![forecast_pharm](forecast_pharm.png)
 
-One of the most common challenges in the pharmaceutical supply chain is **inventory distortion** — the imbalance between overstocking and understocking. For a typical retail business, a stockout means a lost sale. In the pharmaceutical industry, the stakes are infinitely higher — it can mean a delay in life-saving treatment. This immense responsibility is why effective pharmacy inventory forecasting is not just a good business practice, but a critical component of patient safety.
+One of the most common challenges in the pharmaceutical supply chain is **inventory distortion** — the imbalance between overstocking and understocking. 
+
+**For a typical retail business, a stockout means a lost sale. In the pharmaceutical industry, the stakes are infinitely higher — it can mean a delay in life-saving treatment. This immense responsibility is why effective pharmacy inventory forecasting is not just a good business practice, but a critical component of patient safety.**
 
 This project builds a **machine learning forecasting model** that helps pharmacies anticipate demand and make smarter inventory decisions using historical sales data. But more than a model — it tells the story of how raw numbers become business insight.
 
